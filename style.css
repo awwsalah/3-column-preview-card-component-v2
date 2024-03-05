@@ -21,11 +21,13 @@ body{
     height: 100dvh;
     background-color: var(--white-color);
 }
+.container{
+    padding-bottom: 20px;
 
+}
 
 .cards{
     display: flex;
-    padding-bottom: 20px;
     
 }
 .card1{
@@ -71,7 +73,7 @@ button{
     align-content: flex-end;
     font-weight: 500;
     width: 120px;
-    margin-top: 60px;
+    margin-top: 40px;
     
 }
 .card1 button{
